@@ -1,0 +1,18 @@
+
+input[type="text"] {
+    background-color: white;
+    border: solid #000000 2px;
+}
+
+
+input[type="button"] {
+    background-color: #FFF8DC;
+    color: #000000;
+    border: solid #000000 2px;
+    width: 100%;
+    font-size: 15px;
+}
+
+.calTable{
+    border: 2px solid #000000 ;
+}
